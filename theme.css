@@ -1,0 +1,36 @@
+/* @theme magland-theme */
+
+@import 'default';
+
+section {
+    background: white;
+    padding-left:40px;
+    display: block;
+}
+
+h1 {
+    font-size: 1.6em;
+    color: #862DF6;
+    padding-top: 5cqmax;
+}
+
+h2 {
+    font-size: 1.4em;
+    color: #862DF6;
+    padding-top: 25px;
+    padding-bottom: 15px;
+}
+
+p {
+    font-size: 0.9em;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+li {
+    font-size: 0.9em;
+    margin-bottom: -3px;
+    margin-top: -3px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
