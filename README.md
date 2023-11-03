@@ -1,3 +1,3 @@
-[View presentation](https://magland.github.io/magland-fwam-2023)
+[View presentation](https://magland.github.io/coding-concepts)
 
 Source: [slides.md](./slides.md)
